@@ -78,7 +78,7 @@ def menu():
 def main():
     menu()
     while(True):
-        cnc = input('''Input :''')
+        cnc = Lệnh By Tài('''Lệnh By Tài :''')
         if cnc == "layer7" or cnc == "LAYER7" or cnc == "L7" or cnc == "l7":
             ()
         elif cnc == "layer4" or cnc == "LAYER4" or cnc == "L4" or cnc == "l4":
